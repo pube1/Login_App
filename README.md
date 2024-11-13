@@ -18,10 +18,12 @@ Welcome to the **Login App**, a sleek and simple Android app built with **Java**
 ## 📸 App Screenshots
 Here are some screenshots of the app in action:
 
-![Login Screen](https://hizliresim.com/1999nah)
+![Login Screen](https://github.com/pube1/Login_App/blob/master/login.png)
+
 *The login screen where users enter their credentials.*
 
-![Home Screen](https://hizliresim.com/1gmo61j)
+![Home Screen](https://github.com/pube1/Login_App/blob/master/afterlogin.png)
+
 *The main screen after a successful login.*
 
 *Feel free to add more screenshots here for additional features or views!*
